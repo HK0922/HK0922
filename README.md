@@ -56,8 +56,7 @@ I like designing visually bold, vibe-coded websites — everything here is built
 <div align="center">
 
 ![Harikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=HK0922&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HK0922&theme=tokyonight&hide_border=true)
 
-<img src="https://komarev.com/ghpvc/?username=HK0922&style=for-the-badge&color=blueviolet" alt="visitor badge"/>
+
 
 </div>
