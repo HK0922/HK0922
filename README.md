@@ -51,12 +51,3 @@ I like designing visually bold, vibe-coded websites — everything here is built
 - 🤖 I'd rather build an agent to automate something than do it by hand twice
 - 🎹 Fun fact: I can play any melody by ear
 
----
-
-<div align="center">
-
-![Harikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=HK0922&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-
-</div>
