@@ -26,3 +26,4 @@ This is where I'll be uploading projects and experiments as I build them - mostl
 - 🩺 Into applying AI to healthcare - most of my recent projects lean that way
 - 🤖 I'd rather build an agent to automate something than do it by hand twice
 - 🎹 Fun Fact: Can play any melody by ear. 
+..
