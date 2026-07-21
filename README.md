@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/HK0922/HK0922/main/assets/banner.svg" width="100%" alt="Harikrishna Trivedi"/>
+
+
 <div align="center">
 
 # Hi there, I'm Harikrishna Trivedi! 👋
@@ -17,7 +20,7 @@ I like designing visually bold, vibe-coded websites — everything here is built
 
 <p align="left">
   <a href="https://linkedin.com/in/hktrivedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://harikrishnatrivedi.figma.site"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://harikrishnatrivedi.figma.site"><img src="httpws://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ### 🛠️ Tools & Technologies
