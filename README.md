@@ -8,7 +8,7 @@
 I build **AI/ML systems** — PyTorch, TensorFlow, and LLM-powered pipelines with LangChain.
 I also build automation workflows with **n8n**, and ship full-stack apps with **FastAPI**, **Next.js**, and **React** when a project needs a real interface.
 
-I like designing visually bold, vibe-coded websites — everything here is built from scratch, no copy/paste templates.
+I like designing visually bold, vibe-coded websites; everything here is built from scratch, no copy/paste templates.
 
 </div>
 
