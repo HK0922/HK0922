@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/HK0922/HK0922/main/assets/banner.svg" width="100%" alt="Harikrishna Trivedi"/>
-
 
 <div align="center">
 
