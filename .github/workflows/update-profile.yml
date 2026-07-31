@@ -8,7 +8,7 @@ on:
     branches: [main]
     paths:
       - "assets/source_photo.jpg"
-      - "scripts/**"
+      - "*.py"
 
 permissions:
   contents: write
@@ -30,21 +30,21 @@ jobs:
       - name: Fetch GitHub stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/fetch_github_data.py
+        run: python fetch_github_data.py
 
       - name: Generate stats card
-        run: python scripts/generate_stats_card.py
+        run: python generate_stats_card.py
 
       - name: Generate languages card
-        run: python scripts/generate_languages_card.py
+        run: python generate_languages_card.py
 
       - name: Generate contribution calendar
-        run: python scripts/generate_contribution_calendar.py
+        run: python generate_contribution_calendar.py
 
       - name: Generate ASCII portrait
         run: |
           if [ -f assets/source_photo.jpg ]; then
-            python scripts/generate_ascii_portrait.py
+            python generate_ascii_portrait.py
           else
             echo "No assets/source_photo.jpg yet -- skipping portrait"
           fi
