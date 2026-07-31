@@ -1,0 +1,4 @@
+opencv-python-headless==4.13.0.92
+numpy==2.4.4
+fonttools[woff]==4.62.1
+brotli==1.1.0
