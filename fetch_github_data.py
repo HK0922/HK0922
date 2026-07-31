@@ -37,7 +37,7 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
         }
       }
     }
-    repositories(first: 100, ownerAffiliation: OWNER, isFork: false,
+    repositories(first: 100, ownerAffiliations: [OWNER], isFork: false,
                   orderBy: {field: STARGAZERS, direction: DESC}) {
       totalCount
       nodes {
@@ -92,8 +92,6 @@ def compute_streaks(days: list[dict]) -> tuple[int, int]:
             longest = max(longest, running)
         else:
             running = 0
-    # current streak = trailing run ending today (or yesterday, so a streak
-    # doesn't visually reset to 0 before today's commit has happened yet)
     for d in reversed(days):
         if d["date"] > today:
             continue
@@ -133,7 +131,6 @@ def normalize(raw: dict) -> dict:
         "current_streak": current_streak,
         "longest_streak": longest_streak,
         "top_languages": top_languages,
-        # keep the raw daily grid for the calendar-heatmap card
         "calendar_weeks": [
             [d["contributionCount"] for d in week["contributionDays"]]
             for week in cal["weeks"]
