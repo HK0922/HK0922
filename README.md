@@ -3,10 +3,6 @@
 ### 📊 This Profile, Automated
 
 <p align="center">
-  <img src="assets/generated/ascii_portrait.svg" alt="ASCII portrait" width="480"/>
-</p>
-
-<p align="center">
   <img src="assets/generated/stats.svg" alt="GitHub stats" />
 </p>
 
@@ -18,7 +14,7 @@
   <img src="assets/generated/calendar.svg" alt="Contribution calendar" />
 </p>
 
-<p align="center"><sub>Regenerated daily by GitHub Actions — no third-party widgets, rendered by <code>scripts/</code> in this repo.</sub></p>
+<p align="center"><sub>Regenerated daily by GitHub Actions.</sub></p>
 
 ---
 
