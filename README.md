@@ -1,16 +1,24 @@
+---
 
-<div align="center">
+### 📊 This Profile, Automated
 
-# Hi there, I'm Harikrishna Trivedi! 👋
+<p align="center">
+  <img src="assets/generated/ascii_portrait.svg" alt="ASCII portrait" width="480"/>
+</p>
 
-**AI/ML Engineer** · **MS Computer Science Candidate @ NJIT** · Newark, NJ
+<p align="center">
+  <img src="assets/generated/stats.svg" alt="GitHub stats" />
+</p>
 
-I build **AI/ML systems** using PyTorch, TensorFlow, and LLM-powered pipelines with LangChain.
-I also build automation workflows with **n8n**, and ship full-stack apps with **FastAPI**, **Next.js**, and **React** when a project needs a real interface.
+<p align="center">
+  <img src="assets/generated/languages.svg" alt="Top languages" />
+</p>
 
-I like designing visually bold, vibe-coded websites; everything here is built from scratch, no copy/paste templates.
+<p align="center">
+  <img src="assets/generated/calendar.svg" alt="Contribution calendar" />
+</p>
 
-</div>
+<p align="center"><sub>Regenerated daily by GitHub Actions — no third-party widgets, rendered by <code>scripts/</code> in this repo.</sub></p>
 
 ---
 
