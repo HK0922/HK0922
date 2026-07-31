@@ -1,7 +1,5 @@
 ---
 
-### 📊 This Profile, Automated
-
 <p align="center">
   <img src="assets/generated/stats.svg" alt="GitHub stats" />
 </p>
