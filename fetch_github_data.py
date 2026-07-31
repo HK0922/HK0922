@@ -55,12 +55,13 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 def fetch(login: str, token: str) -> dict:
     to = dt.datetime.now(dt.timezone.utc)
     frm = to - dt.timedelta(days=365)
+    fmt = "%Y-%m-%dT%H:%M:%SZ"
     body = json.dumps({
         "query": QUERY,
         "variables": {
             "login": login,
-            "from": frm.isoformat() + "Z",
-            "to": to.isoformat() + "Z",
+            "from": frm.strftime(fmt),
+            "to": to.strftime(fmt),
         },
     }).encode()
 
