@@ -1,10 +1,6 @@
 ---
 
 <p align="center">
-  <img src="assets/generated/stats.svg" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="assets/generated/languages.svg" alt="Top languages" />
 </p>
 
