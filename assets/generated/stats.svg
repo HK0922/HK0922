@@ -24,7 +24,7 @@
   <text x="36" y="156" class="value">68</text>
   <circle cx="234" cy="57" r="3" fill="#3fb950"/>
   <text x="246" y="62" class="label">Current Streak</text>
-  <text x="246" y="80" class="value">1 days</text>
+  <text x="246" y="80" class="value">0 days</text>
   <circle cx="234" cy="95" r="3" fill="#58a6ff"/>
   <text x="246" y="100" class="label">Longest Streak</text>
   <text x="246" y="118" class="value">6 days</text>
