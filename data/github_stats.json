@@ -4,7 +4,7 @@
   "total_repos": 4,
   "total_stars": 0,
   "total_contributions": 71,
-  "current_streak": 1,
+  "current_streak": 0,
   "longest_streak": 6,
   "top_languages": [
     {
@@ -26,7 +26,6 @@
   ],
   "calendar_weeks": [
     [
-      0,
       0,
       0
     ],
@@ -495,8 +494,9 @@
       0,
       1,
       0,
-      2
+      2,
+      0
     ]
   ],
-  "generated_at": "2026-08-07T07:14:41.889622+00:00Z"
+  "generated_at": "2026-08-08T06:51:43.125877+00:00Z"
 }
