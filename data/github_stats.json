@@ -1,40 +1,39 @@
 {
   "login": "Harikrishna Trivedi",
   "followers": 0,
-  "total_repos": 6,
-  "total_stars": 4,
-  "total_contributions": 105,
-  "current_streak": 0,
+  "total_repos": 7,
+  "total_stars": 3,
+  "total_contributions": 110,
+  "current_streak": 2,
   "longest_streak": 6,
   "top_languages": [
     {
-      "name": "TypeScript",
-      "percent": 39.2
+      "name": "Python",
+      "percent": 42.7
     },
     {
-      "name": "Python",
-      "percent": 36.9
+      "name": "TypeScript",
+      "percent": 33.5
     },
     {
       "name": "CSS",
-      "percent": 9.8
+      "percent": 8.4
     },
     {
       "name": "JavaScript",
-      "percent": 8.0
+      "percent": 7.3
     },
     {
       "name": "Astro",
-      "percent": 5.9
+      "percent": 5.0
     },
     {
       "name": "HTML",
-      "percent": 0.3
+      "percent": 3.0
     }
   ],
   "calendar_weeks": [
     [
-      0,
       0,
       0,
       0,
@@ -503,8 +502,9 @@
     ],
     [
       0,
-      0
+      4,
+      1
     ]
   ],
-  "generated_at": "2026-11-16T14:54:49.354094+00:00Z"
+  "generated_at": "2026-11-17T15:33:16.171871+00:00Z"
 }
