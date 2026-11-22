@@ -15,13 +15,13 @@
   <text x="20" y="30" class="title">Stats</text>
   <circle cx="24" cy="57" r="3" fill="#58a6ff"/>
   <text x="36" y="62" class="label">Total Stars</text>
-  <text x="36" y="80" class="value">3</text>
+  <text x="36" y="80" class="value">2</text>
   <circle cx="24" cy="95" r="3" fill="#3fb950"/>
   <text x="36" y="100" class="label">Total Repos</text>
   <text x="36" y="118" class="value">7</text>
   <circle cx="24" cy="133" r="3" fill="#58a6ff"/>
   <text x="36" y="138" class="label">Contributions (1y)</text>
-  <text x="36" y="156" class="value">112</text>
+  <text x="36" y="156" class="value">113</text>
   <circle cx="234" cy="57" r="3" fill="#3fb950"/>
   <text x="246" y="62" class="label">Current Streak</text>
   <text x="246" y="80" class="value">0 days</text>
