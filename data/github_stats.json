@@ -3,38 +3,37 @@
   "followers": 0,
   "total_repos": 7,
   "total_stars": 2,
-  "total_contributions": 113,
+  "total_contributions": 118,
   "current_streak": 0,
   "longest_streak": 6,
   "top_languages": [
     {
       "name": "Python",
-      "percent": 42.7
+      "percent": 41.6
     },
     {
       "name": "TypeScript",
-      "percent": 33.5
-    },
-    {
-      "name": "CSS",
-      "percent": 8.4
-    },
-    {
-      "name": "JavaScript",
-      "percent": 7.3
-    },
-    {
-      "name": "Astro",
-      "percent": 5.0
+      "percent": 24.7
     },
     {
       "name": "HTML",
-      "percent": 3.0
+      "percent": 13.9
+    },
+    {
+      "name": "JavaScript",
+      "percent": 9.5
+    },
+    {
+      "name": "CSS",
+      "percent": 6.2
+    },
+    {
+      "name": "Astro",
+      "percent": 3.7
     }
   ],
   "calendar_weeks": [
     [
-      0,
       0,
       0,
       0,
@@ -503,8 +502,9 @@
       0,
       0,
       0,
+      5,
       0
     ]
   ],
-  "generated_at": "2026-11-25T16:51:25.163882+00:00Z"
+  "generated_at": "2026-11-26T16:28:06.824213+00:00Z"
 }
